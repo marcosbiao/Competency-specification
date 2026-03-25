@@ -16,7 +16,7 @@ A tarefa sustenta adequadamente o modelo **K–S–D** porque mobiliza conhecime
 
 A tarefa requer a implementação, em linguagem C, de um programa capaz de ler o peso de peixes informado, verificar se esse valor ultrapassa um limite fixado no enunciado e registrar, conforme o caso, o excesso e o valor da multa. Quando não houver excesso, o programa deve manter as variáveis de saída com valor zero. A evidência principal está na coerência entre leitura, decisão, cálculo, atualização de variáveis e saída produzida.
 
-### Processo de Desenvolvimento da Solução (em etapas)
+### Processo de Desenvolvimento da Solução
 
 1. Identificar os dados explicitamente envolvidos no problema: peso informado, excesso e multa.
 2. Representar esses dados por variáveis numéricas compatíveis com seus papéis.
@@ -25,32 +25,23 @@ A tarefa requer a implementação, em linguagem C, de um programa capaz de ler o
 5. Implementar a atualização das variáveis de saída em cada cenário.
 6. Exibir os resultados finais de modo verificável e coerente com o enunciado.
 
-### Resultados Esperados (lista de produtos e evidências)
+### Resultados Esperados
 
 - código-fonte em C com leitura, processamento condicional e saída;
 - valores finais de `E` e `M` apresentados de forma explícita;
 - tratamento coerente do caso com excesso e do caso sem excesso;
 - justificativa breve explicando o comportamento adotado pela solução.
 
-### Contexto de Aquisição (curso, organização, ambiente, avaliação)
+### Contexto de Aquisição 
 
 - **Curso:** Ciência da Computação  
 - **Organização:** atividade individual  
 - **Ambiente:** laboratório de programação ou avaliação prática introdutória  
 - **Avaliação:** análise do código, da coerência do fluxo computacional, da consistência das variáveis de saída e da verificabilidade dos resultados
 
-### Perfil do Público-Alvo (nível, pré-requisitos, necessidades)
-
+### Perfil do Público-Alvo 
 O público-alvo é composto por estudantes ingressantes em disciplinas introdutórias de programação, com contato inicial com variáveis, tipos primitivos, expressões, entrada e saída e estruturas de decisão. Trata-se de um perfil que necessita consolidar a tradução de enunciados textuais em soluções computacionais simples, corretas e verificáveis.
 
-## Contexto de Aquisição
-
-- **Curso:** Ciência da Computação
-- **Nível:** Graduação, 1º semestre
-- **Componente Curricular:** Introdução à Programação
-- **Organização da atividade:** individual
-- **Ambiente provável:** laboratório de programação ou atividade prática equivalente
-- **Forma de avaliação:** análise do código, da saída produzida e da justificativa breve
 
 ### Nível de Proficiência (critérios e dimensões)
 
@@ -62,7 +53,7 @@ O público-alvo é composto por estudantes ingressantes em disciplinas introdut�
 | **N4 — Avançado** | organiza os dados com clareza e precisão técnica | expressa a decisão de forma estável e sem ambiguidades | integra cálculo, decisão e estado com alta consistência | saída clara, verificável e justificativa tecnicamente sólida |
 
 
-## 2. Seleção e Enumeração de Conhecimentos (Catálogo K)
+## 2. Seleção e Enumeração de Conhecimentos
 
 **K01 — Modelo de execução e noção de estado (paradigma imperativo)**
 - compreensão operacional de que o programa evolui por mudanças de estado durante a execução;
