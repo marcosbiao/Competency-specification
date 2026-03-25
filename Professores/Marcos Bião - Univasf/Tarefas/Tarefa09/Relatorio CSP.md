@@ -132,7 +132,7 @@ Construir soluções computacionais introdutórias em linguagem C para problemas
 
 ### 4.2 Especificações de Competências
 
-## CT04.1
+## CT09.1
 
 **Título da Competência**  
 Implementar programas básicos em uma linguagem, compreendendo sintaxe e semântica essenciais
@@ -179,8 +179,8 @@ Não aplicável.
 
 | Código | Competência | Disposições | Conhecimento | Habilidade |
 |---|---|---|---|---|
-| CT04.1 | Implementar programas básicos em uma linguagem, compreendendo sintaxe e semântica essenciais | organização lógica; clareza; consistência estrutural | K02 | declarar e utilizar variáveis numéricas compatíveis com a entrada e com o resultado do programa |
-| CT04.1 | Implementar programas básicos em uma linguagem, compreendendo sintaxe e semântica essenciais | organização lógica; clareza; consistência estrutural | K05 | construir um fluxo verificável de entrada, processamento e saída em um programa básico em C |
+| CT09.1 | Implementar programas básicos em uma linguagem, compreendendo sintaxe e semântica essenciais | organização lógica; clareza; consistência estrutural | K02 | declarar e utilizar variáveis numéricas compatíveis com a entrada e com o resultado do programa |
+| CT09.1 | Implementar programas básicos em uma linguagem, compreendendo sintaxe e semântica essenciais | organização lógica; clareza; consistência estrutural | K05 | construir um fluxo verificável de entrada, processamento e saída em um programa básico em C |
 
 **Definição de Ativação**
 
@@ -189,7 +189,7 @@ Modo de ativação: construtiva
 Função de ativação: núcleo  
 Justificativa: a tarefa exige a implementação completa de um programa em C. Por isso, a organização estrutural do artefato e o uso funcional de variáveis e E/S são evidências centrais da competência.
 
-## CT04.2
+## CT09.2
 
 **Título da Competência**  
 Manipular dados com tipos primitivos, variáveis e constantes, avaliando expressões e conversões simples
@@ -236,8 +236,8 @@ Não aplicável.
 
 | Código | Competência | Disposições | Conhecimento | Habilidade |
 |---|---|---|---|---|
-| CT04.2 | Manipular dados com tipos primitivos, variáveis e constantes, avaliando expressões e conversões simples | precisão; coerência; consistência numérica | K02 | manipular variáveis e constantes numéricas compatíveis com o cálculo da soma parcial |
-| CT04.2 | Manipular dados com tipos primitivos, variáveis e constantes, avaliando expressões e conversões simples | precisão; coerência; consistência numérica | K03 | calcular termos e atualizar resultados parciais por meio de expressões aritméticas consistentes |
+| CT09.2 | Manipular dados com tipos primitivos, variáveis e constantes, avaliando expressões e conversões simples | precisão; coerência; consistência numérica | K02 | manipular variáveis e constantes numéricas compatíveis com o cálculo da soma parcial |
+| CT09.2 | Manipular dados com tipos primitivos, variáveis e constantes, avaliando expressões e conversões simples | precisão; coerência; consistência numérica | K03 | calcular termos e atualizar resultados parciais por meio de expressões aritméticas consistentes |
 
 **Definição de Ativação**
 
@@ -246,7 +246,7 @@ Modo de ativação: construtiva
 Função de ativação: núcleo  
 Justificativa: a tarefa depende diretamente da representação correta dos dados e do cálculo dos termos da série. Essas evidências aparecem de forma explícita no processamento numérico implementado.
 
-## CT04.3
+## CT09.3
 
 **Título da Competência**  
 Controlar o fluxo com repetição utilizando contadores, acumuladores e paradas seguras
@@ -300,9 +300,9 @@ Não aplicável.
 
 | Código | Competência | Disposições | Conhecimento | Habilidade |
 |---|---|---|---|---|
-| CT04.3 | Controlar o fluxo com repetição utilizando contadores, acumuladores e paradas seguras | rigor; atenção; cuidado com estabilidade | K01 | explicitar o estado do programa por meio do acompanhamento coerente de contador, termo e acumulador durante a execução |
-| CT04.3 | Controlar o fluxo com repetição utilizando contadores, acumuladores e paradas seguras | rigor; atenção; cuidado com estabilidade | K03 | computar as atualizações aritméticas necessárias ao processamento de cada iteração |
-| CT04.3 | Controlar o fluxo com repetição utilizando contadores, acumuladores e paradas seguras | rigor; atenção; cuidado com estabilidade | K07 | implementar repetição por contagem com parada segura e acumulação consistente dos resultados parciais |
+| CT09.3 | Controlar o fluxo com repetição utilizando contadores, acumuladores e paradas seguras | rigor; atenção; cuidado com estabilidade | K01 | explicitar o estado do programa por meio do acompanhamento coerente de contador, termo e acumulador durante a execução |
+| CT09.3 | Controlar o fluxo com repetição utilizando contadores, acumuladores e paradas seguras | rigor; atenção; cuidado com estabilidade | K03 | computar as atualizações aritméticas necessárias ao processamento de cada iteração |
+| CT09.3 | Controlar o fluxo com repetição utilizando contadores, acumuladores e paradas seguras | rigor; atenção; cuidado com estabilidade | K07 | implementar repetição por contagem com parada segura e acumulação consistente dos resultados parciais |
 
 **Definição de Ativação**
 
