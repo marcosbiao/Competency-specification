@@ -1,0 +1,1 @@
+Faça um programa para imprimir de forma ordenada (do menor para o maior) 3 números inteiros quaisquer lidos do teclado. A ordenação deve ser implementada de 2 formas diferentes!

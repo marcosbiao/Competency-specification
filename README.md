@@ -124,19 +124,7 @@ Conjunto estruturado de competências para o ensino de **Introdução à Program
 
 # 🔬 Metodologia
 
-O projeto utiliza como base metodológica o **Competency Specification Process (CSP)**.
-
-Os relatórios seguem o modelo:
-
-**Conhecimento – Habilidade – Disposição (K–S–D)**
-
-Além disso, são utilizados os seguintes referenciais:
-
-- **Taxonomia de Bloom revisada**
-- **CS2023 (ACM/IEEE Computer Science Curricula)**
-- princípios de **educação baseada em competências**
-
-### (A metodologia ainda será melhor descrita.)
+A metodologia completa deste projeto está descrita em [Metodologia](./Metodologia.md).
 
 # 🚀 Como Utilizar o Repositório
 

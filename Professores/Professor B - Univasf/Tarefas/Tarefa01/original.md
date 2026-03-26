@@ -1,0 +1,1 @@
+Faça um programa para, dados 4 valores armazenados nas variáveis x, y, w, e z, calcular e imprimir as médias aritmética, geométrica, harmônica e ponderada (com peso 2 para a variável x, 4 para a variável y, 6 para a variável w e 8 para a variável z).

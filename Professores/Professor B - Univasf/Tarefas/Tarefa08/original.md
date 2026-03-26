@@ -1,0 +1,1 @@
+Na Teoria de Sistemas, define-se como elemento minimax de uma matriz o menor elemento da linha em que se encontra o maior elemento da matriz. Escreva um programa que preencha uma matriz M(5x5) por leitura e determine o seu elemento minimax.

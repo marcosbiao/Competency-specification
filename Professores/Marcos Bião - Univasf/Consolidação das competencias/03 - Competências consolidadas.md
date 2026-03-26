@@ -1,0 +1,15 @@
+# Sintese Consolidada
+
+
+| Código da nova competência | Título nova competência  | Pareamento conhecimento/habilidade | Quantidade de competências originais mapeadas | Justificativa sintética |
+|---|---|---|---|---|
+| CC01 | Traduzir problemas simples em algoritmos claros por decomposição e abstração | K01/Analisar; K05/Analisar; K07/Analisar | 7 | Mantém K01, K05 e K07 por representarem o núcleo transversal da decomposição algorítmica; remove conhecimentos que só aparecem em subconjuntos de tarefas. |
+| CC02 | Implementar programas introdutórios com fluxo verificável de entrada, processamento e saída | K02/Aplicar; K05/Aplicar | 9 | Mantém K02 e K05 por definirem o padrão mais estável de programas introdutórios com E/P/S; elimina conhecimentos contextuais de cálculo ou análise de estado. |
+| CC03 | Manipular dados com tipos primitivos, variáveis, constantes e expressões simples, preservando a coerência do estado do programa | K02/Aplicar; K03/Aplicar; K01/Analisar | 11 | Combina tipos/variáveis (K02), expressões simples (K03) e coerência de estado (K01) como núcleo comum de manipulação de dados. |
+| CC04 | Realizar entrada e saída de dados com consistência, validação mínima e formatação apropriada | K02/Aplicar; K04/Aplicar; K05/Aplicar | 8 | Preserva leitura/escrita tipada (K02), validação mínima (K04) e estruturação de E/S (K05) como base comum do grupo. |
+| CC05 | Controlar o fluxo com decisões condicionais, formulando expressões lógicas corretas e cobrindo casos relevantes | K04/Aplicar; K06/Aplicar | 10 | Retém apenas formulação de condições (K04) e seleção de ramos (K06), que são o centro comum de todas as competências condicionais operacionais. |
+| CC06 | Controlar o fluxo iterativo com laços, contadores, acumuladores e paradas seguras | K07/Aplicar; K03/Aplicar; K01/Analisar | 12 | Concentra a competência em laços e parada (K07), atualização aritmética (K03) e análise do estado iterativo (K01). |
+| CC07 | Representar e processar coleções indexadas com vetores e matrizes | K08/Aplicar; K07/Aplicar | 9 | Preserva K08 e K07 como núcleo de vetores/matrizes e seu percorrimento, tratando outros conhecimentos como contextuais. |
+| CC08 | Modularizar soluções por funções ou procedimentos com parâmetros, tipos e retorno coerentes | K11/Criar; K02/Aplicar | 5 | Mantém K11 em Criar pela exigência de definir subprogramas e K02 em Aplicar para coerência de tipos. |
+| CC09 | Analisar e justificar a execução e a adequação de programas introdutórios | K01/Analisar; K01/Avaliar | 9 | Normaliza o grupo em K01 porque todas as competências exigem reconstruir e julgar mudanças de estado durante a execução. |
+| CC10 | Selecionar estruturas adequadas ao problema e justificar as escolhas | K01/Analisar; K02/Analisar; K08/Analisar; K09/Analisar | 1 | Preserva o pareamento analítico original por se tratar de competência única e comparativa entre estruturas. |
