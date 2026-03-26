@@ -1,0 +1,4 @@
+Faça um programa que calcule uma média móvel.  O programa deve executar um laço de leitura de valores inteiros positivos; a introdução de um valor negativo servirá como indicador de término do programa. Para cada valor fornecido deverá ser impressa a média calculada. A média móvel é efetuada sobre um número predeterminado de valores. Quando se introduz um novo valor dado, descarta-se o valor mais antigo, abrindo lugar para o novo valor. Considere para a solução deste problema cinco observações (valores) e assuma que pelo menos cinco pontos válidos serão fornecidos.
+Use obrigatoriamente subprogramas para:
+- armazenar os novos valores no vetor de valores;
+- calcular a média móvel.

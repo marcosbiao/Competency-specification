@@ -1,0 +1,1 @@
+Construa um subprograma que, recebendo como parâmetros quatro números inteiros, devolva ao módulo que o chamou a soma dos três maiores números dentre os quatro recebidos. Faça um programa que leia tantos conjuntos de quatro valores quantos o usuário deseje e que chame o subprograma para cada conjunto de valores, apresentando a cada vez a soma produzida.
