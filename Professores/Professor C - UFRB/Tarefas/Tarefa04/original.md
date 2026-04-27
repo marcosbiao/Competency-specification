@@ -1,0 +1,1 @@
+Faça um algoritmo e um fluxograma que represente um programa que peça a idade de duas pessoas, verifique e mostre a idade do mais velho ou diga ‘ambos têm a mesma idade’, caso as idades sejam iguais.

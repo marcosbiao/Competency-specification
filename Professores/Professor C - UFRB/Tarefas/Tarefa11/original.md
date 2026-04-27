@@ -1,0 +1,1 @@
+Desenvolva um programa que solicite uma quantidade indeterminada de números inteiros, um de cada vez, e apresente o maior e o menor deles ao final. O programa deve parar de solicitar a inserção dos números se o usuário inserir o valor 0.

@@ -1,0 +1,1 @@
+Desenvolva um programa que exiba na tela a sequência de números pares de 0 até 150 em ordem decrescente. A sequência que deve ser exibida é: 150, 148, 146, 144, .... 8, 6, 4, 2.

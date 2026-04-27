@@ -1,0 +1,1 @@
+Um programa que solicite ao usuário que digite um caractere qualquer, de sua escolha, e verifique se o caractere digitado é uma vogal. Considerando que uma vogal pode ser maiúscula ou minúscula.

@@ -1,0 +1,1 @@
+Todo ano que é divisível por 2 e não é divisível por 4 é ano de copa do mundo! Escreva um programa que verifique se um ano é ou não ano de copa do mundo. Seu programa deve solicitar um ano e realizar os testes necessários, exibindo o resultado na tela.
