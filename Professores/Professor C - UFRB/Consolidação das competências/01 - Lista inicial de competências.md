@@ -1,0 +1,65 @@
+# Lista geral de competências consolidadas
+
+Tabela consolidada a partir dos relatórios CSP das atividades TASK01 a TASK18.
+
+| Código da competência | Título da competência | Conhecimento/habilidade |
+|---|---|---|
+| CT01.1 | Modelar problemas introdutórios como fluxo de entrada, processamento e saída | K01/Analisar; K03/Analisar; K02/Aplicar |
+| CT01.2 | Construir representações algorítmicas equivalentes em formato textual e gráfico | K02/Criar; K03/Aplicar; K01/Analisar |
+| CT01.3 | Realizar entrada e saída de dados com validação mínima e formatação apropriada | K03/Aplicar; K04/Aplicar |
+| CT02.1 | Construir representações algorítmicas introdutórias para problemas simples de classificação | K02/Criar; K03/Aplicar |
+| CT02.2 | Controlar o fluxo de execução por meio de decisões condicionais em problemas de classificação | K05/Analisar; K06/Analisar |
+| CT02.3 | Organizar entrada e saída em soluções introdutórias de classificação com base em dados numéricos | K03/Aplicar; K04/Aplicar |
+| CT03.1 | Representar soluções introdutórias por algoritmo e fluxograma de forma coerente | K02/Aplicar; K03/Aplicar |
+| CT03.2 | Estruturar soluções sequenciais com dados numéricos em problemas introdutórios | K03/Aplicar; K04/Aplicar |
+| CT03.3 | Aplicar processamento aritmético simples em soluções computacionais elementares | K04/Aplicar; K05/Aplicar |
+| CT04.1 | Representar soluções computacionais introdutórias em formas algorítmicas equivalentes | K02/Aplicar; K03/Aplicar |
+| CT04.2 | Controlar o fluxo de execução por meio de comparação relacional e decisão condicional simples | K05/Analisar; K06/Analisar |
+| CT04.3 | Realizar entrada e saída de dados com organização mínima e consistência representacional | K03/Aplicar; K04/Aplicar; K05/Aplicar |
+| CT05.1 | Estruturar programas introdutórios com fluxo sequencial e representação consistente de dados numéricos | K03/Aplicar; K04/Aplicar |
+| CT05.2 | Implementar processamento aritmético simples para produzir resultados derivados em programas introdutórios | K04/Aplicar; K05/Aplicar; K03/Aplicar |
+| CT05.3 | Traduzir problemas quantitativos simples em algoritmos executáveis e verificáveis | K01/Analisar; K02/Analisar; K03/Aplicar |
+| CT06.1 | Estruturar programas introdutórios com dados numéricos e fluxo sequencial verificável | K03/Aplicar; K04/Aplicar |
+| CT06.2 | Realizar processamento numérico simples por meio de expressões aritméticas coerentes | K04/Aplicar; K05/Aplicar |
+| CT06.3 | Implementar soluções executáveis simples com rastreabilidade entre enunciado, processamento e saída | K02/Criar; K03/Aplicar; K05/Aplicar |
+| CT07.1 | Implementar programas básicos em uma linguagem, compreendendo sintaxe e semântica essenciais | K02/Aplicar; K03/Aplicar; K04/Aplicar |
+| CT07.2 | Realizar entrada e saída de dados com validação mínima e formatação apropriada | K03/Aplicar; K04/Aplicar; K06/Aplicar |
+| CT07.3 | Controlar o fluxo com decisões (if/else) e seleção múltipla, formulando expressões lógicas corretas | K02/Analisar; K05/Analisar; K06/Analisar |
+| CT08.1 | Estruturar programas introdutórios com entrada única, processamento simples e saída verificável | K03/Aplicar; K04/Aplicar |
+| CT08.2 | Controlar o fluxo de execução por meio de expressões relacionais, lógicas e decisão condicional | K05/Analisar; K06/Analisar |
+| CT08.3 | Implementar classificações binárias simples em programas introdutórios a partir de regras explícitas | K03/Aplicar; K05/Analisar; K06/Criar |
+| CT09.1 | Implementar programas básicos em uma linguagem, compreendendo sintaxe e semântica essenciais | K03/Aplicar; K04/Aplicar |
+| CT09.2 | Realizar entrada e saída de dados simples com correspondência entre leitura e resultado apresentado | K03/Aplicar; K04/Aplicar |
+| CT09.3 | Controlar o fluxo com decisões simples (if/else), formulando expressões lógicas corretas | K05/Aplicar; K06/Aplicar |
+| CT10.1 | Implementar programas básicos em uma linguagem, compreendendo sintaxe e semântica essenciais | K02/Aplicar; K03/Aplicar; K04/Aplicar |
+| CT10.2 | Realizar entrada e saída de dados com formatação apropriada | K03/Aplicar; K04/Aplicar |
+| CT10.3 | Processar múltiplos valores por repetição e acumulação controladas | K04/Aplicar; K05/Aplicar; K07/Aplicar |
+| CT10.4 | Controlar o fluxo com decisões (if/else) e seleção múltipla, formulando expressões lógicas corretas | K03/Aplicar; K05/Analisar; K06/Analisar |
+| CT11.1 | Implementar programas introdutórios com fluxo verificável de entrada, processamento e saída | K02/Aplicar; K03/Aplicar; K04/Aplicar |
+| CT11.2 | Controlar o processamento iterativo de entradas por critério de parada explícito | K05/Aplicar; K07/Aplicar |
+| CT11.3 | Atualizar e comparar estados para produzir resultados extremos em sequências numéricas | K04/Aplicar; K05/Analisar; K06/Analisar |
+| CT12.1 | Realizar saída de dados com organização e formatação apropriada | K03/Aplicar; K05/Aplicar |
+| CT12.2 | Controlar o fluxo com repetição utilizando variável de controle e paradas seguras | K04/Aplicar; K05/Aplicar; K07/Aplicar |
+| CT12.3 | Implementar algoritmos iterativos para geração de sequências numéricas simples | K02/Criar; K03/Aplicar; K05/Aplicar; K07/Criar |
+| CT13.1 | Estruturar programas introdutórios de cadastro com fluxo verificável de entrada e saída | K03/Aplicar; K04/Aplicar |
+| CT13.2 | Controlar processamento repetitivo de quantidade fixa e organizar coleções indexadas | K07/Aplicar; K08/Aplicar; K03/Aplicar; K04/Aplicar |
+| CT14.1 | Traduzir e estruturar problemas numéricos simples em programas executáveis verificáveis | K02/Criar; K03/Criar; K04/Criar |
+| CT14.2 | Manipular dados numéricos e expressões aritméticas para produzir resultados agregados | K03/Aplicar; K04/Aplicar; K05/Aplicar |
+| CT14.3 | Empregar laços de repetição simples no processamento de coleções homogêneas de dados | K03/Aplicar; K04/Aplicar; K07/Aplicar |
+| CT15.1 | Estruturar soluções algorítmicas para processar múltiplas ocorrências com fluxo verificável | K03/Aplicar; K07/Aplicar |
+| CT15.2 | Representar e manter coleções de dados para processamento e recuperação posterior | K04/Aplicar; K08/Aplicar |
+| CT15.3 | Aplicar regras condicionais e cálculo para produzir valores derivados em programas introdutórios | K04/Aplicar; K05/Aplicar; K06/Aplicar |
+| CT15.4 | Consolidar e apresentar resultados computacionais em formato de relatório verificável | K03/Aplicar; K08/Aplicar |
+| CT16.1 | Estruturar programas introdutórios com fluxo verificável de entrada, processamento e saída | K03/Aplicar; K04/Aplicar |
+| CT16.2 | Controlar o fluxo de execução por regras condicionais em programas introdutórios | K05/Aplicar; K06/Aplicar |
+| CT16.3 | Gerenciar repetição de processamento em programas interativos simples | K07/Aplicar; K03/Aplicar |
+| CT16.4 | Implementar soluções estruturadas que integrem seleção, totalização e reexecução de tarefas | K02/Criar; K05/Aplicar; K06/Aplicar; K07/Aplicar |
+| CT17.1 | Estruturar programas introdutórios com fluxo verificável de entrada, processamento e saída | K03/Aplicar; K04/Aplicar |
+| CT17.2 | Controlar o processamento de programas por meio de decisões condicionais coerentes | K05/Analisar; K06/Analisar; K04/Aplicar |
+| CT17.3 | Realizar processamento numérico simples para consolidar resultados derivados em programas de pedidos | K03/Aplicar; K04/Aplicar; K05/Aplicar |
+| CT17.4 | Gerenciar repetição controlada de ciclos completos de atendimento em programas interativos | K07/Aplicar; K03/Aplicar; K06/Aplicar |
+| CT18.1 | Decompor requisitos e estruturar o fluxo computacional de um programa introdutório | K01/Analisar; K02/Analisar; K03/Aplicar |
+| CT18.2 | Representar dados e coleções com tipos adequados e vetores | K03/Aplicar; K04/Aplicar; K08/Aplicar |
+| CT18.3 | Controlar o fluxo de execução com decisões e repetições | K05/Aplicar; K06/Aplicar; K07/Aplicar |
+| CT18.4 | Atualizar coleções e estado do programa durante operações de cadastro e venda | K04/Aplicar; K05/Aplicar; K07/Aplicar; K08/Criar |
+| CT18.5 | Produzir consultas e indicadores a partir de dados armazenados | K03/Aplicar; K05/Aplicar; K07/Aplicar; K08/Aplicar |
